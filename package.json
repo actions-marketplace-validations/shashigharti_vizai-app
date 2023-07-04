@@ -1,0 +1,23 @@
+{
+  "name": "chatgpt-visualize",
+  "version": "1.0.0",
+  "description": "visualization using chatgpt",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "vizai"
+  },
+  "keywords": [
+    "chatgpt",
+    "vizualization"
+  ],
+  "author": "shashi",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^3.3.0"
+  }
+}
