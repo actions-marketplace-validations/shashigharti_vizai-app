@@ -10,4 +10,4 @@ RUN \
   npm install --production && \
   pip install -r requirements.txt
 
-ENTRYPOINT ["node", "/repository/lib/index.js"]
+ENTRYPOINT ["node", "/repository/index.js"]
